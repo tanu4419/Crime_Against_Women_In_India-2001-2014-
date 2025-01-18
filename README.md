@@ -1,4 +1,6 @@
 # Crime Against Women in India (2001-2014) Analysis
+<img width="1000" height="400" src="https://github.com/tanu4419/Crime_Against_Women_In_India-2001-2014-/blob/main/Images/stop_crime.jpg"/>
+
 
 ## ❓ Problem Statement
 Crimes against women in India are a serious concern. Despite various measures, the data from 2001 to 2014 shows a worrying increase in such cases. This project aims to analyze the data to find patterns and trends that can help in understanding the problem better and guide efforts to reduce these crimes.
@@ -12,7 +14,7 @@ The main goal of this project is to study the data on crimes against women in In
 
 ## 🛠️ Tools Used
 - **Analytical & Visual:**  Python\
-  <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-python-96.png" alt="python"/>
+  <img width="96" height="96" src="https://github.com/tanu4419/Crime_Against_Women_In_India-2001-2014-/blob/main/Images/icons8-python-96.png" alt="python"/>
 
 ## 📅 Dataset Overview
 - **Data source:** Internet
